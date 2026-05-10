@@ -1,0 +1,8 @@
+[package]
+name = "kern_regex"
+version = "0.1.0"
+kern = "0.7.5"
+
+[[bin]]
+name = "kern_regex"
+root = "src/main.rn"
